@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Eiffel Tower",
+        "description": "An iconic symbol of Paris, France.",
+        "image": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Eiffel+Tower"
+    },
+    {
+        "id": 2,
+        "name": "Great Wall of China",
+        "description": "A series of fortifications made of various materials.",
+        "image": "https://via.placeholder.com/150/33FF57/FFFFFF?text=Great+Wall+of+China"
+    },
+    {
+        "id": 3,
+        "name": "Machu Picchu",
+        "description": "An ancient Incan city located in the Andes mountains.",
+        "image": "https://via.placeholder.com/150/3357FF/FFFFFF?text=Machu+Picchu"
+    },
+    {
+        "id": 4,
+        "name": "Colosseum",
+        "description": "An ancient amphitheater located in Rome, Italy.",
+        "image": "https://via.placeholder.com/150/FF33A1/FFFFFF?text=Colosseum"
+    },
+    {
+        "id": 5,
+        "name": "Statue of Liberty",
+        "description": "A symbol of freedom and democracy in New York City.",
+        "image": "https://via.placeholder.com/150/FF33FF/FFFFFF?text=Statue+of+Liberty"
+    },
+    {
+        "id": 6,
+        "name": "Taj Mahal",
+        "description": "A mausoleum built in memory of Mumtaz Mahal in India.",
+        "image": "https://via.placeholder.com/150/FFFF33/FFFFFF?text=Taj+Mahal"
+    }
+]
