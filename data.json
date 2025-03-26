@@ -3,36 +3,36 @@
         "id": 1,
         "name": "Eiffel Tower",
         "description": "An iconic symbol of Paris, France.",
-        "image": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Eiffel+Tower"
+        "image": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-U11-60OQtq62WcjJWj1shgY6iFNvVN6fkTxV1jU48sLnoWejxB19cmIMSYSgfLK3ZakqjBeas2mG0AEg4yc6OImY3_HEXEayyMuL2DP1JoGi4lAaC614jPld3vguQAVW_Dtg=s1360-w1360-h1020"
     },
     {
         "id": 2,
         "name": "Great Wall of China",
         "description": "A series of fortifications made of various materials.",
-        "image": "https://via.placeholder.com/150/33FF57/FFFFFF?text=Great+Wall+of+China"
+        "image": "https://lh5.googleusercontent.com/p/AF1QipNa-VZ3dLGzVdsrk0_LpiQfGqRKJvX1IR_oc5Oo=w270-h312-n-k-no"
     },
     {
         "id": 3,
         "name": "Machu Picchu",
         "description": "An ancient Incan city located in the Andes mountains.",
-        "image": "https://via.placeholder.com/150/3357FF/FFFFFF?text=Machu+Picchu"
+        "image": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-z55nKf8Kpcqce0zePtZJar_rX-_GcRK9knok--XwSgmFqhz8YvQEMwpNeFveyMZ3JiwQfbtDDqTKU4IA-wyrvK0ygQX7N-YYdKIa-bPnuIo_ZeKDarimZsIFfRCVVVpw8iNo2eA=w270-h312-n-k-no"
     },
     {
         "id": 4,
         "name": "Colosseum",
         "description": "An ancient amphitheater located in Rome, Italy.",
-        "image": "https://via.placeholder.com/150/FF33A1/FFFFFF?text=Colosseum"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/1200px-Colosseo_2020.jpg"
     },
     {
         "id": 5,
         "name": "Statue of Liberty",
         "description": "A symbol of freedom and democracy in New York City.",
-        "image": "https://via.placeholder.com/150/FF33FF/FFFFFF?text=Statue+of+Liberty"
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNOkjsKcMBL_Fia95bCQvwISPZBNG_Addfw3AYm=s1360-w1360-h1020"
     },
     {
         "id": 6,
         "name": "Taj Mahal",
         "description": "A mausoleum built in memory of Mumtaz Mahal in India.",
-        "image": "https://via.placeholder.com/150/FFFF33/FFFFFF?text=Taj+Mahal"
+        "image": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_2yNasSm86eycA35X4Slori4yRR0uRPvrRxJ-VDz_l7x2EAwfk-boqB8mO5BAdVWkXG3AtR5FuSxconT_99mq4wtsRRFHsxDvKDR6KKOVK31lr0j0h6xpsiCJqlc7sNy5HMeG5Xg=w270-h312-n-k-no"
     }
 ]
